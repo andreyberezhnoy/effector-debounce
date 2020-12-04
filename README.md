@@ -2,7 +2,7 @@
 
 [![npm bundle size](https://img.shields.io/bundlephobia/min/effector-debounce)](https://bundlephobia.com/result?p=effector-debounce)
 
-> **Deprecated**: Use [patronum](github.com/sergeysova/patronum) instead
+> **Deprecated**: Use [patronum](https://github.com/sergeysova/patronum) instead
 
 https://codesandbox.io/s/effector-throttle-debounce-w32tk
 
